@@ -1,4 +1,7 @@
 .ipynb_checkpoints
 .idea
-poetry.lock
+.env
 pyproject.toml
+poetry.lock
+playground*
+*.jr

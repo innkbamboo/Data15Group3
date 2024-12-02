@@ -1,15 +1,15 @@
 [tool.poetry]
-name = "data15group3"
+name = "jobs-ai"
 version = "0.1.0"
 description = ""
-authors = ["Zhaoyu GUO <zhaoyuguo1998@gmail.com>"]
-license = "MIT License"
+authors = ["Kevin <zhaoyuguo1998@gmail.com>"]
+license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.8"
-requests = "^2.32.3"
-bs4 = "^0.0.2"
+python = "^3.10"
+linkedin-api = "^2.3.1"
+python-decouple = "^3.8"
 
 
 [build-system]
