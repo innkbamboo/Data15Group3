@@ -10,6 +10,12 @@ readme = "README.md"
 python = "^3.10"
 linkedin-api = "^2.3.1"
 python-decouple = "^3.8"
+streamlit = "^1.40.2"
+langchain = "^0.3.9"
+langchain-chroma = "^0.1.4"
+langchain-openai = "^0.2.10"
+langchain-anthropic = "^0.3.0"
+pypdf = "^5.1.0"
 
 
 [build-system]
